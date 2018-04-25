@@ -26,6 +26,4 @@ Here, the last two parameters (which are optional, and have a default value of 2
 
 ### How to cite this work
 
-
-
-
+See the [publisher's website](https://www.sciencedirect.com/science/article/pii/S0169023X11000607) to export a citation in the desired format.
