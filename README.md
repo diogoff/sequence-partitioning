@@ -14,7 +14,7 @@ The original source code used to produce the results described in the paper has 
 
 Assuming that Python is installed and available in the system, open a command line and run:
 ```
- python seqpart.py abcabababc 2
+$ python seqpart.py abcabababc 2
 ```
 In this example, were are asking for solutions with 2 patterns to the input sequence 'abcabababc'. This will provide the solutions {'abc':2, 'ba':2} and {'abc':2, 'ab':2} (the notation here is that of a Python dictionary).
 
